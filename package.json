@@ -1,0 +1,17 @@
+{
+  "name": "secret",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test --parallel",
+    "coverage": "npx hardhat coverage"
+  },
+  "keywords": [],
+  "author": "Nico Frega",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.14.0"
+  }
+}
